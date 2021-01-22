@@ -1,1 +1,6 @@
-/target/
+/target
+/src/test
+/data/Toro/userAllCheckinsFile
+/data/Toro/userAllPOIsFile
+/data/Toro/userSequencesFile
+/.idea/
